@@ -1,16 +1,18 @@
 # IBM-Project-2034-1658423887
 
-Project Title: AI-powered Nutrition Analyzer for Fitness Enthusiasts
+## Project Title: AI-powered Nutrition Analyzer for Fitness Enthusiasts
 
-Team: Velvizhi, Madhumitha, Narmada, Selva Sowbagya
+### Category: Artificial Intelligence
 
-Industry Mentor Name: Sowjanya, Sandeep
+**Team Lead**: Velvizhi
 
-Faculty Mentor(s) Name: N. CHIDAMBARAMS
+**Team**: Madhumitha, Narmada, Selva Sowbagya
 
-Category: Artificial Intelligence
+**Industry Mentor Name**: Sowjanya, Sandeep
 
-Project description:
+**Faculty Mentor(s) Name**: N. CHIDAMBARAMS
+
+### Project description:
 
 Food is essential for human life and has been the concern of many healthcare conventions. Nowadays new dietary assessment and nutrition analysis tools enable more opportunities to help people understand their daily eating habits, exploring nutrition patterns and maintain a healthy diet. Nutritional analysis is the process of determining the nutritional content of food. It is a vital part of analytical chemistry that provides information about the chemical composition, processing, quality control and contamination of food.
 
