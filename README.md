@@ -10,7 +10,7 @@
 
 **Industry Mentor Name**: Sowjanya, Sandeep
 
-**Faculty Mentor(s) Name**: N. CHIDAMBARAMS
+**Faculty Mentor Name**: N. CHIDAMBARAMS
 
 ### Project description:
 
