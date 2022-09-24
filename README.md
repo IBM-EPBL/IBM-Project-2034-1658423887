@@ -6,7 +6,7 @@
 
 **Team Lead**: Velvizhi
 
-**Team**: Madhumitha, Narmada, Selva Sowbagya
+**Team**: Madhumitha, Narmada, Selva Sowbakya
 
 **Industry Mentor Name**: Sowjanya, Sandeep
 
