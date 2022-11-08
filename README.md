@@ -20,19 +20,17 @@ The main aim of the project is to building a model which is used for classifying
 
 ### Project flow:
 
-*The user interacts with the UI (User Interface) and give the image as input.
-
-*Then the input image is then pass to our flask application,
-
-*And finally with the help of the model which we build we will classify the result and showcase it on the UI.
+The user interacts with the UI (User Interface) and give the image as input.
+Then the input image is then pass to our flask application,
+And finally with the help of the model which we build we will classify the result and showcase it on the UI.
 
 To accomplish this, we have to complete all the activities and tasks listed below
 
-*Data Collection.
+Data Collection.
 
     *Collect the dataset or Create the dataset
 
-*Data Preprocessing.
+Data Preprocessing.
 
     *Import the ImageDataGenerator library
 
@@ -40,7 +38,7 @@ To accomplish this, we have to complete all the activities and tasks listed belo
 
     *ApplyImageDataGenerator functionality to Trainset and Testset
 
-*Model Building
+Model Building
 
     *Import the model building Libraries
 
@@ -58,7 +56,7 @@ To accomplish this, we have to complete all the activities and tasks listed belo
 
     *Save the Model
 
-*Application Building
+Application Building
 
     *Create an HTML file
 
