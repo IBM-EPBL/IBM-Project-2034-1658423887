@@ -26,19 +26,19 @@ And finally with the help of the model which we build we will classify the resul
 
 To accomplish this, we have to complete all the activities and tasks listed below
 
- Data Collection:
+Data Collection:
 
-    - [x] Collect the dataset or Create the dataset
+- [x] Collect the dataset or Create the dataset
 
- Data Preprocessing:
+Data Preprocessing:
 
-    Import the ImageDataGenerator library
+- [x] Import the ImageDataGenerator library
 
-    Configure ImageDataGenerator class
+- [x] Configure ImageDataGenerator class
 
-    ApplyImageDataGenerator functionality to Trainset and Testset
+- [x] ApplyImageDataGenerator functionality to Trainset and Testset
 
- Model Building:
+Model Building:
 
     Import the model building Libraries
 
