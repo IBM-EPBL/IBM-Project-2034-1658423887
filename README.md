@@ -28,7 +28,7 @@ To accomplish this, we have to complete all the activities and tasks listed belo
 
 Data Collection.
 
-    [x] Collect the dataset or Create the dataset
+    Collect the dataset or Create the dataset
 
 Data Preprocessing.
 
