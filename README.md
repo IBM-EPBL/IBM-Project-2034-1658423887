@@ -40,27 +40,27 @@ Data Preprocessing:
 
 Model Building:
 
-    Import the model building Libraries
+- [x] Import the model building Libraries
 
-    Initializing the model
+- [x] Initializing the model
 
-    Adding Input Layer
+- [x] Adding Input Layer
 
-    Adding Hidden Layer
+- [x] Adding Hidden Layer
 
-    Adding Output Layer
+- [x] Adding Output Layer
 
-    Configure the Learning Process
+- [x] Configure the Learning Process
 
-    Training and testing the model
+- [x] Training and testing the model
 
-    Save the Model
+- [x] Save the Model
 
- Application Building:
+Application Building:
 
-    Create an HTML file
+- [ ] Create an HTML file
 
-    Build Python Code
+- [ ] Build Python Code
 
 
 
