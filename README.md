@@ -58,9 +58,9 @@ Model Building:
 
 Application Building:
 
-- [ ] Create an HTML file
+- [x] Create an HTML file
 
-- [ ] Build Python Code
+- [x] Build Python Code
 
 
 
