@@ -2,7 +2,8 @@
 
 ## Project Title: AI-powered Nutrition Analyzer for Fitness Enthusiasts
 
-### Category: Artificial Intelligence
+### Domain: Artificial Intelligence
+### Team ID: PNT2022TMID01196   
 
 **Team Lead**: Velvizhi
 
